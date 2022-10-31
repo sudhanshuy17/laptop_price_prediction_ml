@@ -1,6 +1,7 @@
 # laptop_price_prediction_ml
 It's a Machine Learning Project which can predict about the price of the Laptop when you provide your required configuration
-What I did in this project is, I created a laptop price prediction, it's a regression project.
+What I did in this project is, I created a laptop price prediction, 
+it's a regression project.
 The data set which I used for this project is available over kaggle 
 & here's the link --> https://www.kaggle.com/datasets/muhammetvarl/laptop-price
 You can download this dataSet and apply EDA and feature engineering according to your knowledge else I did the most best which we can get from this small dataSet.
