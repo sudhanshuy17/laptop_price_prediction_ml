@@ -12,7 +12,7 @@ The Prediction I am getting is also overall good & justable, you just need to ha
 you can easily did this.
 
 Main libraries -->
-skLearn 
+skLearn & 
 Stremlit
 
 skLearn is used to for the ml model creation and the Streamlit is to create a good looking and simple frontend
